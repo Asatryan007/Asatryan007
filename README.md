@@ -4,10 +4,8 @@
 
 ### ⚡ About Me
 - Passionate about creating efficient, scalable backend solutions
-- Expert in modern PHP development with Laravel framework
 - Love solving complex problems through object-oriented design
 - Constantly exploring containerization and microservices architectures
-- Enjoy bridging backend systems with frontend interfaces using React
 
 ### 🛠️ Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
